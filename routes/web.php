@@ -20,6 +20,3 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/home', [HomeController::class, 'index'])->name('home');
-Route::get('profile', ProfileController::class)->name('profile');
-Route::resource('products', ProductController::class);
