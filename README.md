@@ -1,3 +1,10 @@
+## NAMA KELOMPOK
+
+- 1204200215 ANINDIA HALIZA ARDYANTI as mahasiswa-c
+- 1204210067 ALLAN PUTRA PRATAMA as mahasiswa-b
+- 1204228146 AMIRATUS SHOLIHA as mahasiswa-a
+- 1204212169 MUHAMMAD FIRLI JUAN SANDI as mahasiswa-d
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
